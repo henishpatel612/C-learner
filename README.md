@@ -86,7 +86,7 @@ int main()
 
 <p align="center">
   <!-- Replace the image path below with your actual screenshot -->
-  <img src="images/rectangle output.png" alt="Program Output Screenshot" width="700">
+  <img src="images/output.png" alt="Program Output Screenshot" width="700">
 </p>
 
 <p align="center">
