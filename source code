@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+    char initial = 'H';
+    char grade = 'A';
+    printf("my grade is %c\n", grade);
+    printf("my initial is %c\n", initial);
+    return 0;
+}
